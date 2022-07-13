@@ -71,7 +71,9 @@
         "gravity": "left",
         "left": "12",
         "text_size": "20",
-        "isLink": "false","link_title": "","setLink": "",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
         "image_link": "",
         "text": "How to Complete story missions",
         "isNative": "false"
@@ -100,7 +102,9 @@
         "gravity": "left",
         "left": "12",
         "text_size": "20",
-        "isLink": "false","link_title": "","setLink": "",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
         "image_link": "",
         "text": "Stay in cover",
         "isNative": "false"
@@ -146,7 +150,7 @@
         "link_title": "",
         "setLink": "",
         "image_link": "content3/3.jpg",
-        "text": "One final Ultimate Team tip concerns the make-up of your teamping up the value of cards assigned to that competition."
+        "text": "One final Ultimate Team tip concerns the make-up of your teamping up the value of cards assigned to that competition.",
         "isNative": "false"
     }
 
@@ -172,9 +176,11 @@
         "gravity": "left",
         "left": "7",
         "text_size": "20",
-        "isLink": "false","link_title": "","setLink": "",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
         "image_link": "content4/4.jpg",
-        "text": "After an explosive intro, Uncharted 4 rewinds time a bit to fill in a few gaps in Nathan Drake's back story."
+        "text": "After an explosive intro, Uncharted 4 rewinds time a bit to fill in a few gaps in Nathan Drake's back story.",
        "isNative": "false"
        }
 
@@ -187,7 +193,9 @@
         "gravity": "left",
         "left": "11",
         "text_size": "30",
-        "isLink": "false","link_title": "","setLink": "",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
         "image_link": "",
         "text": "Don’t get too button mashy when you’re fighting",
         "isNative": "false"
@@ -198,9 +206,11 @@
         "gravity": "left",
         "left": "7",
         "text_size": "20",
-        "isLink": "false","link_title": "","setLink": "",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
         "image_link":"content5/5.jpg",
-        "text": "There are a lot of different enemy types and certain kinds can only be beaten in specific ways. ",
+        "text": "There are a lot of different enemy types and certain kinds can only be beaten in specific ways.",
         "isNative": "true"
       
        }
@@ -227,7 +237,9 @@
         "gravity": "left",
         "left": "7",
         "text_size": "25",
-        "isLink": "false","link_title": "","setLink": "",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
         "image_link": "content6/6.jpg",
         "text": "Cauldrons are optional dungeons found throughout the main campaign. There are four in total and they’re usually found dug into hillsides.",
         "isNative": "true"
@@ -256,7 +268,9 @@
         "gravity": "left",
         "left": "7",
         "text_size": "205",
-        "isLink": "false","link_title": "","setLink": "",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
         "image_link": "content7/7.jpg",
         "text": "Morgan’s slow-mo shooting skills are especially handy when targeting smaller prey, like squirrel and fox. Dead Eye will also hi.",
         "isNative": "true"
@@ -285,7 +299,9 @@
         "gravity": "left",
         "left": "7",
         "text_size": "20",
-        "isLink": "false","link_title": "","setLink": "",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
         "image_link": "content8/8.jpg",
         "text": "There are Replicators and Crafting Materials scattered throughout the map, with Replicators descending at.",
         "isNative": "true"
@@ -301,7 +317,9 @@
         "gravity": "left",
         "left": "11",
         "text_size": "20",
-        "isLink": "false","link_title": "","setLink": "",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
         "image_link": "",
         "text": "Customise Your Loadout",
         "isNative": "false"
