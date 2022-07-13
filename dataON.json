@@ -70,7 +70,7 @@
         "color": "#b82507","style": "italic",
         "gravity": "left",
         "left": "12",
-        "text_size": "30",
+        "text_size": "20",
         "isLink": "false","link_title": "","setLink": "",
         "image_link": "",
         "text": "How to Complete story missions",
@@ -81,10 +81,12 @@
         "color": "#4c698c","style": "blood",
         "gravity": "left",
         "left": "7",
-        "text_size": "25",
-        "isLink": "false","link_title": "","setLink": "",
+        "text_size": "20",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
         "image_link": "content1/1.jpg",
-        "text": "Playing through GTA Online’s vast array of deathmatch types and races can feel generic. For something more bespoke, try some story missions. The likes of Lamar, Gerald, and Simeon Yetarian all cross over from GTA 5, and each has cutscene-laden missions to tick off. Most of these thieving tasks feel nicely personable, and finishing them nets you cash and Job/Reputation Points. To access them, bring up the mission list from the pause menu.",
+        "text": "Playing through GTA Online’s vast array of deathmatch types and races can feel generic. For something more bespoke, try some story missions.",
         "isNative": "true"
       
        }
@@ -97,7 +99,7 @@
         "color": "#b82507#b82507#b82507","style": "italic",
         "gravity": "left",
         "left": "12",
-        "text_size": "30",
+        "text_size": "20",
         "isLink": "false","link_title": "","setLink": "",
         "image_link": "",
         "text": "Stay in cover",
@@ -108,10 +110,12 @@
         "color": "#4c698c","style": "italic",
         "gravity": "left",
         "left": "7",
-        "text_size": "25",
-        "isLink": "false","link_title": "","setLink": "",
+        "text_size": "20",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
         "image_link": "content2/2.jpg",
-        "text": "You should never run straight across open areas unless you absolutely have to, as that's the easiest way to get spotted by an opponent, who can then either open fire on you or follow you and set a trap while you're unaware of the presence. Instead, hug the outside of buildings or move through trees to maintain as much cover as possible. Hiding inside large bushes allows you to stay hidden while still being able to look around for threats, and even crouching inside small bushes can mask your appearance from all but the most eagle-eyed of opponents scanning in your direction.",
+        "text": "You should never run straight across open areas unless you absolutely have to, as that's the easiest way to get spotted by an opponent.",
         "isNative": "true"
       
        }
@@ -125,7 +129,9 @@
         "gravity": "left",
         "left": "11",
         "text_size": "30",
-        "isLink": "false","link_title": "","setLink": "",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
         "image_link": "",
         "text": "All La Liga is a good way to go",
         "isNative": "false"
@@ -135,10 +141,12 @@
         "color": "#4c698c","style": "italic",
         "gravity": "left",
         "left": "7",
-        "text_size": "25",
-        "isLink": "false","link_title": "","setLink": "",
+        "text_size": "20",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
         "image_link": "content3/3.jpg",
-        "text": "One final Ultimate Team tip concerns the make-up of your team. Chemistry is imperative, and the easiest way to max it out is by assembling a starting line-up comprising players from a single division. The temptation is to go with an all Premier League squad for this – but millions of other players are doing the same, ramping up the value of cards assigned to that competition (ENG 1)."
+        "text": "One final Ultimate Team tip concerns the make-up of your teamping up the value of cards assigned to that competition."
         "isNative": "false"
     }
 
@@ -150,8 +158,10 @@
         "color": "#b82507","style": "italic",
         "gravity": "left",
         "left": "11",
-        "text_size": "30",
-        "isLink": "false","link_title": "","setLink": "",
+        "text_size": "20",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
         "image_link": "",
         "text": "Expect a slow burn in the early game",
         "isNative": "false"
@@ -161,10 +171,10 @@
         "color": "#4c698c","style": "italic",
         "gravity": "left",
         "left": "7",
-        "text_size": "25",
+        "text_size": "20",
         "isLink": "false","link_title": "","setLink": "",
         "image_link": "content4/4.jpg",
-        "text": "After an explosive intro, Uncharted 4 rewinds time a bit to fill in a few gaps in Nathan Drake's back story. It's a pretty lengthy prologue - you'll spend about five hours or so in a handful of surprisingly quiet character-building moments, until the adventure finally 'gets going' around chapter seven or eight."
+        "text": "After an explosive intro, Uncharted 4 rewinds time a bit to fill in a few gaps in Nathan Drake's back story."
        "isNative": "false"
        }
 
@@ -187,10 +197,10 @@
         "color": "#4c698c","style": "italic",
         "gravity": "left",
         "left": "7",
-        "text_size": "25",
+        "text_size": "20",
         "isLink": "false","link_title": "","setLink": "",
         "image_link":"content5/5.jpg",
-        "text": "There are a lot of different enemy types and certain kinds can only be beaten in specific ways, so try not to get caught up in the moment and just hammer punch all the time. Use Air Launcher (hold square) for baton enemies, Dodge Under (square, then circle) for shields, and web up heavies before attacking. Using the right moves at the right time is vital to take control of a situation. ",
+        "text": "There are a lot of different enemy types and certain kinds can only be beaten in specific ways. ",
         "isNative": "true"
       
        }
@@ -203,8 +213,10 @@
         "color": "#b82507","style": "italic",
         "gravity": "left",
         "left": "11",
-        "text_size": "30",
-        "isLink": "false","link_title": "","setLink": "",
+        "text_size": "20",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
         "image_link": "",
         "text": "Complete Cauldrons",
         "isNative": "false"
@@ -217,7 +229,7 @@
         "text_size": "25",
         "isLink": "false","link_title": "","setLink": "",
         "image_link": "content6/6.jpg",
-        "text": "Cauldrons are optional dungeons found throughout the main campaign. There are four in total and they’re usually found dug into hillsides. You can finish them to earn XP and learn how to override different types of machines, so they’re definitely worth spending your time on. They will make some of the later challenges in the game significantly easier and give you some more creative ways to approach objectives.",
+        "text": "Cauldrons are optional dungeons found throughout the main campaign. There are four in total and they’re usually found dug into hillsides.",
         "isNative": "true"
       
        }
@@ -230,8 +242,10 @@
         "color": "#b82507","style": "italic",
         "gravity": "left",
         "left": "11",
-        "text_size": "30",
-        "isLink": "false","link_title": "","setLink": "",
+        "text_size": "20",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
         "image_link": "",
         "text": "Use Dead Eye for hunting",
         "isNative": "false"
@@ -241,10 +255,10 @@
         "color": "#4c698c","style": "italic",
         "gravity": "left",
         "left": "7",
-        "text_size": "25",
+        "text_size": "205",
         "isLink": "false","link_title": "","setLink": "",
         "image_link": "content7/7.jpg",
-        "text": "Morgan’s slow-mo shooting skills are especially handy when targeting smaller prey, like squirrel and fox. Dead Eye will also highlight animals vitals, and nailing a shot to the heart or neck will usually ned in an instant, clean kill if you’re using the right caliber of ammo. Take a look at our Red Dead Redemption 2 hunting tips for more advice.",
+        "text": "Morgan’s slow-mo shooting skills are especially handy when targeting smaller prey, like squirrel and fox. Dead Eye will also hi.",
         "isNative": "true"
       
        }
@@ -257,8 +271,10 @@
         "color": "#b82507","style": "italicitalic",
         "gravity": "left",
         "left": "11",
-        "text_size": "30",
-        "isLink": "false","link_title": "","setLink": "",
+        "text_size": "20",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
         "image_link": "",
         "text": "Crafting can give you an edge",
         "isNative": "false"
@@ -268,10 +284,10 @@
         "color": "#4c698c","style": "italic",
         "gravity": "left",
         "left": "7",
-        "text_size": "25",
+        "text_size": "20",
         "isLink": "false","link_title": "","setLink": "",
         "image_link": "content8/8.jpg",
-        "text": "There are Replicators and Crafting Materials scattered throughout the map, with Replicators descending at random points throughout the match. Opening a supply bin gives you 5 Material points, and collecting 20 Material points allows you to craft either a Med Kit or a Shield Battery in the Replicator. There is a daily and weekly rotation of items, and most importantly, items in the rotation will not be available as ground loot, making the Replicator a handy tool when you need a specific item.",
+        "text": "There are Replicators and Crafting Materials scattered throughout the map, with Replicators descending at.",
         "isNative": "true"
       
        }
@@ -284,7 +300,7 @@
         "color": "#b82507","style": "italic",
         "gravity": "left",
         "left": "11",
-        "text_size": "30",
+        "text_size": "20",
         "isLink": "false","link_title": "","setLink": "",
         "image_link": "",
         "text": "Customise Your Loadout",
@@ -295,10 +311,12 @@
         "color": "#4c698c","style": "italic",
         "gravity": "left",
         "left": "7",
-        "text_size": "25",
-        "isLink": "false","link_title": "","setLink": "",
+        "text_size": "20",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
         "image_link": "content9/9.jpg",
-        "text": "It is safer to play with your preferred weapons. Guns, perks, equipment, attachments, and other items that will improve your performance are included in this category. Customising your loadout entails taking your time to choose and obtain all of these items while in-game. So, before beginning the conflict, the first thing to do is get the weaponry in order. Prepare the package you’ll need to live by going to the Weapons menu.",
+        "text": "It is safer to play with your preferred weapons. Guns, perks, equipment, attachments.",
         "isNative": "true"
       
        }
@@ -311,8 +329,10 @@
         "color": "#b82507","style": "italic",
         "gravity": "left",
         "left": "11",
-        "text_size": "30",
-        "isLink": "false","link_title": "","setLink": "",
+        "text_size": "20",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
         "image_link": "",
         "text": "Always be aware of the Storm",
         "isNative": "false"
@@ -322,12 +342,13 @@
         "color": "#4c698c","style": "italic",
         "gravity": "left",
         "left": "7",
-        "text_size": "25",
-        "isLink": "false","link_title": "","setLink": "",
+        "text_size": "20",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
         "image_link": "content10/10.jpg",
-        "text": "The Storm can be just as deadly to you as other players if you lose track of it, so make sure you're keeping an eye on where the next circle will form. The Storm moves in slowly to begin with, but as each stage passes it speeds up and the gap between phases shortens, so watch the timer and plan your next steps to keep up. If you're close to the edge then you can use the Storm to your benefit by keeping it just behind you",
+        "text": "The Storm can be just as deadly to you as other players if you lose track of it, so make sure youre ",
         "isNative": "true"
-      
        }
 
     ],
